@@ -1,8 +1,10 @@
 # btc-race-24h-20261117-0603 — dip-buy bot
 
-A bot for make.fun's "Race a BTC trading bot live for 24 hours"
-(`btc-race-24h-20261117-0603`). Simulation only: it trades paper USDC
-against cbBTC/USDC 1-minute bars, long only, starting from $1,000.
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/Darkarmy921/btc-race-24h-bot-20261117/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/Darkarmy921/btc-race-24h-bot-20261117/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
+A bot for make.fun's "Race a BTC trading bot live for 24 hours" — see the bounty at https://make.fun/bounty/btc-race-24h-20261117-0603.
 
 ## Strategy: buy the dip inside the range
 
